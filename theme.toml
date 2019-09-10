@@ -9,7 +9,7 @@ features = [
   "social icons",
   "editable colors"
 ]
-min_version = "0.55"
+min_version = "0.57"
 
 [author]
   name = "vaga"
